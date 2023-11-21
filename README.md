@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi 👋 I am Rita! 
 
-<!--
-**pastelnata/pastelnata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍🎓 I'm studying Software Engineering in Southern University of Denmark (SDU).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pastelnata&count_private=true&show_icons=true&theme=dark&hide=stars)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pastelnata&count_private=true&langs_count=10&layout=compact&theme=dark&hide=Jupyter%20Notebook)
+  
+</div>

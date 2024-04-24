@@ -1,4 +1,4 @@
-## Hi 👋 I am Rita! 
+## Hi 👋 I am Rita B.! 
 
 - 👩‍🎓 I'm studying Software Engineering in Southern University of Denmark (SDU).
 

@@ -1,6 +1,7 @@
 ## Hi 👋 I am Rita! 
 
-- 👩‍🎓 I'm studying Software Engineering in Southern University of Denmark (SDU).
+- 👩‍🎓 I am currently studying Software Engineering in Southern University of Denmark (SDU).
+- 📧 Reach me on [Linkedin](https://www.linkedin.com/in/rita-braunschweig-39557028a/)
 
 
 ## Stats

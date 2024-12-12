@@ -3,6 +3,7 @@
 - 👩‍🎓 I am currently studying Software Engineering in Southern University of Denmark (SDU).
 - 📧 Reach me on [Linkedin](https://www.linkedin.com/in/rita-braunschweig-39557028a/)
 - ⭐ You can find my projects in my stars
+- 👩🏻‍💻 My [Portfolio](https://pastelnata.github.io/)
 
 
 ## Stats
